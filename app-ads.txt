@@ -1,0 +1,3 @@
+# Authorized ad sellers for this developer's apps (https://iabtechlab.com/app-ads-txt/).
+# Google AdMob, publisher pub-5782371886453719 (the number in your ad unit IDs).
+google.com, pub-5782371886453719, DIRECT, f08c47fec0942fa0
